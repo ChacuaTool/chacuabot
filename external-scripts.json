@@ -10,5 +10,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-catme",
-  "hubot-victory"
+  "hubot-victory",
+  "hubot-heroku-keepalive"
 ]
